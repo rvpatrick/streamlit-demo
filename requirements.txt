@@ -1,0 +1,4 @@
+streamlit #TO DO better to show the exact version that you use here
+scikit-learn
+numpy
+pandas
